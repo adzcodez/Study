@@ -1,2 +1,2 @@
 # Study
-Repo to hold notebooks and TeX docs
+Study repo containing notebooks and TeX docs. 
