@@ -1,8 +1,8 @@
 # Study
 Repo containing notebooks and TeX docs about content that I am studying. 
 
-### Data
-Utility library to import datasets or create data for use in notebooks in this repo. 
+### RL
+Reinforcement learning algorithms and implementations. 
 ### NLP
 Natural language processing tasks, models and research. 
 
